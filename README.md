@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jorge Cardozo</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Jorge Cardozo</h1>
 <h3 align="center">A graduate architect and programming lover from Brazil</h3>
 <br>
 
