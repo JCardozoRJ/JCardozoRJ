@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **some personal projects**
  
-- 📫 How to reach me **jorgeluisgc@me.com**
+- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/jorge-l-g-cardozo/)
 
 - 🌱 I’m currently learning **all i can**
 
